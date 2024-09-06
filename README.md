@@ -8,4 +8,5 @@ Passionate QA Engineer with 4 years of experience in software testing.
 Skilled in automated testing, manual testing, and quality assurance methodologies.
 Committed to delivering high-quality software products and improving testing processes.
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jtjibala/) |  [Email](mailto:jibalajohnpeter@gmail.com)
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jtjibala/)
+[Email](jibalajohnpeter@gmail.com)
