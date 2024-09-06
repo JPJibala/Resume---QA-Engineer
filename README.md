@@ -3,8 +3,7 @@
 
 Passionate QA Engineer with 4 years of experience in software testing. <br/>
 Skilled in automated testing, manual testing, and quality assurance methodologies. <br/>
-Committed to delivering high-quality software products and improving testing processes. <br/><br/>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpjibala&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Committed to delivering high-quality software products and improving testing processes.
 
 [LinkedIn Profile](https://www.linkedin.com/in/jtjibala/) | [Email Address](jibalajohnpeter@gmail.com)
 
