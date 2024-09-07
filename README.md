@@ -78,15 +78,19 @@
 ### ✒️ eGov PH Super App
 🔸 **Description :**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Philippines eGov PH Super App was launched in mid-2023 as part of the government's efforts to digitalize <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;public services. The app allows citizens to access multiple government services in one platform, including digital <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IDs (like the national ID and driver's license), SIM card registration, and unified travel forms. It also supports <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e-payment services, job searching, and direct communication with government agencies. <br/> <br/>
+🔸 **Platform :**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web and Mobile Application <br/> <br/>
 🔸 **Role :**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assigned in the Municipality of Laoag, Ilocos Norte as one of the DICT partners in nationwide roll-out of the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project.
 
 ### ✒️ CCaaS | DILG 911
 🔸 **Description :**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Philippines' Department of the Interior and Local Government (DILG) has partnered with Next Generation <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advanced (NGA) 911 and PLDT to enhance the country's 911 emergency hotline system through the integration <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of cutting-edge technology. The initiative aims to significantly improve emergency response times by <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;implementing advanced features such as precise caller location, incident management systems, and GPS tracking to <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;better manage and address emergencies. <br/>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system has also been designed to filter out prank and spam calls, significantly increasing the number of <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;legitimate emergency responses. The collaboration involves setting up local 911 command centers in various <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regions to further decentralize the emergency response system, making it more accessible and efficient across the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;country’s diverse locations. With these enhancements, the Philippines is the first country in Southeast Asia to <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adopt this next-generation 911 technology​ <br/> <br/>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system has also been designed to filter out prank and spam calls, significantly increasing the number of <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;legitimate emergency responses. The collaboration involves setting up local 911 command centers in various <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regions to further decentralize the emergency response system, making it more accessible and efficient across the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;country’s diverse locations. With these enhancements, the Philippines is the first country in Southeast Asia <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to adopt this next-generation 911 technology​ <br/> <br/>
+🔸 **Platform :**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web and Mobile Application <br/> <br/>
 🔸 **Role :**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assigned in the Municipality of Laoag, Ilocos Norte as one of the DICT partners in nationwide roll-out of the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software QA Engineer for CCaaS platforms
 
 <br/>
 
