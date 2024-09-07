@@ -81,8 +81,8 @@
 📍 **Relevant Coursework:** <br/>
 🔸 Digital Logic Design, which covers the fundamental concepts of digital circuits and systems. <br/>
 🔸 Computer Architecture to understand the design and function of computer systems, and Microprocessors and <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microcontrollers to learn about embedded system components. <br/>
-🔸 Data Structures and Algorithms are essential for efficient programming, while Operating Systems explores system management and <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;functionality. <br/>
-🔸 Computer Networks introduces networking principles, and Software Engineering focuses on developing and managing software projects. <br/>
+🔸 Data Structures and Algorithms are essential for efficient programming, while Operating Systems explores system <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;management and functionality. <br/>
+🔸 Computer Networks introduces networking principles, and Software Engineering focuses on developing and <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;managing software projects. <br/>
 🔸 Embedded Systems coursework involves integrating hardware and software, and Database Systems cover data management and storage. <br/>
 🔸 Other subjects include VLSI Design for integrated circuit design, Signal Processing for analyzing and manipulating signals, Electronics for <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;both analog and digital components. <br/>
 🔸 Control Systems for automated control applications, Artificial Intelligence for intelligent system design, and Object-Oriented Programming <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for structured software development. <br/>
