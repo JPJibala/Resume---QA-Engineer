@@ -81,6 +81,14 @@
 🔸 **Role :**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assigned in the Municipality of Laoag, Ilocos Norte as one of the DICT partners in nationwide roll-out of the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project.
 
+### ✒️ CCaaS | DILG 911
+🔸 **Description :**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Philippines' Department of the Interior and Local Government (DILG) has partnered with Next Generation Advanced (NGA) 911 and PLDT to enhance the country's 911 emergency hotline system through the integration of cutting-edge technology. The initiative aims to significantly improve emergency response times by implementing advanced features such as precise caller location, incident management systems, and GPS tracking to better manage and address emergencies.
+
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The system has also been designed to filter out prank and spam calls, significantly increasing the number of legitimate emergency responses. The collaboration involves setting up local 911 command centers in various regions to further decentralize the emergency response system, making it more accessible and efficient across the country’s diverse locations. With these enhancements, the Philippines is the first country in Southeast Asia to adopt this next-generation 911 technology​ <br/> <br/>
+🔸 **Role :**
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assigned in the Municipality of Laoag, Ilocos Norte as one of the DICT partners in nationwide roll-out of the <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;project.
+
 <br/>
 
 ### 🎯 EDUCATION
