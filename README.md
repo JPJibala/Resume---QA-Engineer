@@ -14,8 +14,10 @@
 🔸 **Programming Languages**: Java, JavaScript, C++ <br/>
 🔸 **Web Development**: HTML, CSS, JavaSript, Bootstrap, jQuery, Materialize <br/>
 🔸 **Version Control**: Git, GitHub <br/>
-🔸 **Bug Tracking**: JIRA <br/>
-🔸 **Project Management**: Trello, Asana
+🔸 **Bug Tracking**: Jira <br/>
+🔸 **Project Management**: Trello, Asana <br/>
+🔸 **Cloud Platforms**: Alibaba, Huawei <br/>
+🔸 **Content Creation**: Wordpress, Canva, Photoshop, Figma
 
 <br/>
 
